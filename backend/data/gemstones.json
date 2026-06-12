@@ -1,0 +1,345 @@
+{
+  "gemstones": [
+    {
+      "id": 1,
+      "name": "Ruby",
+      "planet": "Sun",
+      "color": "Red",
+      "priceRange": "₹5000 - ₹50000",
+      "minPrice": 5000,
+      "maxPrice": 50000,
+      "benefits": ["Confidence", "Leadership", "Success", "Recognition", "Authority"],
+      "purposes": ["Career", "Leadership", "Success", "Authority"],
+      "wearInstructions": {
+        "metal": "Gold",
+        "finger": "Ring Finger",
+        "day": "Sunday",
+        "time": "Morning"
+      },
+      "alternatives": ["Red Garnet", "Sunstone", "Red Spinel"],
+      "description": "Ruby is a precious gemstone associated with the Sun. It enhances leadership qualities, confidence, and brings success in career.",
+      "zodiacSigns": ["Leo", "Aries"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ruby_crystal.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Emerald",
+      "planet": "Mercury",
+      "color": "Green",
+      "priceRange": "₹3000 - ₹40000",
+      "minPrice": 3000,
+      "maxPrice": 40000,
+      "benefits": ["Intelligence", "Communication", "Education", "Business", "Creativity"],
+      "purposes": ["Education", "Business", "Communication", "Intelligence"],
+      "wearInstructions": {
+        "metal": "Gold or Silver",
+        "finger": "Little Finger",
+        "day": "Wednesday",
+        "time": "Morning"
+      },
+      "alternatives": ["Green Tourmaline", "Peridot", "Jade"],
+      "description": "Emerald is associated with Mercury. It enhances intelligence, communication skills, and brings success in education and business.",
+      "zodiacSigns": ["Virgo", "Gemini"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Emerald_Rough.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pearl",
+      "planet": "Moon",
+      "color": "White",
+      "priceRange": "₹1000 - ₹25000",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "benefits": ["Peace", "Mental Stability", "Emotional Balance", "Relationships", "Intuition"],
+      "purposes": ["Health", "Relationships", "Peace", "Mental Stability"],
+      "wearInstructions": {
+        "metal": "Silver",
+        "finger": "Little Finger",
+        "day": "Monday",
+        "time": "Evening"
+      },
+      "alternatives": ["Moonstone", "Opal", "White Coral"],
+      "description": "Pearl is associated with the Moon. It brings peace, mental stability, and emotional balance. Good for relationships.",
+      "zodiacSigns": ["Cancer", "Pisces"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pearls.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Diamond",
+      "planet": "Venus",
+      "color": "White/Clear",
+      "priceRange": "₹10000 - ₹100000",
+      "minPrice": 10000,
+      "maxPrice": 100000,
+      "benefits": ["Luxury", "Love", "Beauty", "Creativity", "Marriage"],
+      "purposes": ["Marriage", "Love", "Beauty", "Luxury"],
+      "wearInstructions": {
+        "metal": "Gold or Platinum",
+        "finger": "Middle Finger",
+        "day": "Friday",
+        "time": "Morning"
+      },
+      "alternatives": ["White Sapphire", "Zircon", "White Topaz"],
+      "description": "Diamond is associated with Venus. It brings luxury, love, beauty, and success in creative fields and marriage.",
+      "zodiacSigns": ["Taurus", "Libra"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Diamond.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Blue Sapphire",
+      "planet": "Saturn",
+      "color": "Blue",
+      "priceRange": "₹8000 - ₹80000",
+      "minPrice": 8000,
+      "maxPrice": 80000,
+      "benefits": ["Discipline", "Focus", "Career Growth", "Justice", "Patience"],
+      "purposes": ["Career", "Discipline", "Justice", "Focus"],
+      "wearInstructions": {
+        "metal": "Gold or Silver",
+        "finger": "Middle Finger",
+        "day": "Saturday",
+        "time": "Evening"
+      },
+      "alternatives": ["Iolite", "Blue Topaz", "Lapis Lazuli"],
+      "description": "Blue Sapphire is associated with Saturn. It brings discipline, focus, and career growth. Must be worn with caution.",
+      "zodiacSigns": ["Capricorn", "Aquarius"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Blue_Sapphire.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Yellow Sapphire",
+      "planet": "Jupiter",
+      "color": "Yellow",
+      "priceRange": "₹5000 - ₹60000",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "benefits": ["Wisdom", "Wealth", "Marriage", "Children", "Spirituality"],
+      "purposes": ["Wealth", "Marriage", "Education", "Spirituality"],
+      "wearInstructions": {
+        "metal": "Gold",
+        "finger": "Index Finger",
+        "day": "Thursday",
+        "time": "Morning"
+      },
+      "alternatives": ["Yellow Topaz", "Citrine", "Golden Beryl"],
+      "description": "Yellow Sapphire is associated with Jupiter. It brings wisdom, wealth, and success in marriage and education.",
+      "zodiacSigns": ["Sagittarius", "Pisces"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yellow_Sapphire.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Red Coral",
+      "planet": "Mars",
+      "color": "Red",
+      "priceRange": "₹2000 - ₹30000",
+      "minPrice": 2000,
+      "maxPrice": 30000,
+      "benefits": ["Courage", "Energy", "Physical Strength", "Victory", "Health"],
+      "purposes": ["Health", "Courage", "Victory", "Energy"],
+      "wearInstructions": {
+        "metal": "Gold or Copper",
+        "finger": "Ring Finger",
+        "day": "Tuesday",
+        "time": "Morning"
+      },
+      "alternatives": ["Carnelian", "Red Jasper", "Garnet"],
+      "description": "Red Coral is associated with Mars. It brings courage, energy, and physical strength. Good for health and victory.",
+      "zodiacSigns": ["Aries", "Scorpio"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Red_Coral.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hessonite",
+      "planet": "Rahu",
+      "color": "Brown/Red",
+      "priceRange": "₹3000 - ₹35000",
+      "minPrice": 3000,
+      "maxPrice": 35000,
+      "benefits": ["Success", "Ambition", "Innovation", "Foreign Travel", "Technology"],
+      "purposes": ["Career", "Innovation", "Foreign Travel", "Success"],
+      "wearInstructions": {
+        "metal": "Silver",
+        "finger": "Middle Finger",
+        "day": "Saturday",
+        "time": "Evening"
+      },
+      "alternatives": ["Brown Tourmaline", "Smoky Quartz", "Andalusite"],
+      "description": "Hessonite is associated with Rahu. It brings success, ambition, and innovation. Good for foreign travel and technology.",
+      "zodiacSigns": ["Aquarius", "Capricorn"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hessonite.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cat's Eye",
+      "planet": "Ketu",
+      "color": "Yellow/Green",
+      "priceRange": "₹4000 - ₹40000",
+      "minPrice": 4000,
+      "maxPrice": 40000,
+      "benefits": ["Spirituality", "Protection", "Intuition", "Healing", "Detachment"],
+      "purposes": ["Spirituality", "Protection", "Healing", "Intuition"],
+      "wearInstructions": {
+        "metal": "Gold or Silver",
+        "finger": "Middle Finger",
+        "day": "Tuesday",
+        "time": "Evening"
+      },
+      "alternatives": ["Tiger's Eye", "Alexandrite", "Chrysoberyl"],
+      "description": "Cat's Eye is associated with Ketu. It brings spirituality, protection, and intuition. Good for healing and detachment.",
+      "zodiacSigns": ["Pisces", "Scorpio"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cats_Eye.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Amethyst",
+      "planet": "Saturn",
+      "color": "Purple",
+      "priceRange": "₹1500 - ₹20000",
+      "minPrice": 1500,
+      "maxPrice": 20000,
+      "benefits": ["Spiritual Growth", "Mental Peace", "Meditation", "Wisdom", "Sobriety"],
+      "purposes": ["Spirituality", "Mental Peace", "Wisdom", "Meditation"],
+      "wearInstructions": {
+        "metal": "Silver",
+        "finger": "Middle Finger",
+        "day": "Saturday",
+        "time": "Morning"
+      },
+      "alternatives": ["Purple Sapphire", "Charoite", "Sugilite"],
+      "description": "Amethyst is associated with Saturn. It enhances spiritual growth, mental peace, and wisdom. Excellent for meditation.",
+      "zodiacSigns": ["Pisces", "Aquarius", "Capricorn"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Amethyst.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Citrine",
+      "planet": "Jupiter",
+      "color": "Yellow",
+      "priceRange": "₹2000 - ₹25000",
+      "minPrice": 2000,
+      "maxPrice": 25000,
+      "benefits": ["Prosperity", "Success", "Abundance", "Creativity", "Joy"],
+      "purposes": ["Wealth", "Success", "Business", "Creativity"],
+      "wearInstructions": {
+        "metal": "Gold",
+        "finger": "Index Finger",
+        "day": "Thursday",
+        "time": "Morning"
+      },
+      "alternatives": ["Yellow Topaz", "Golden Beryl", "Amber"],
+      "description": "Citrine is associated with Jupiter. It attracts prosperity, success, and abundance. Known as the merchant's stone.",
+      "zodiacSigns": ["Sagittarius", "Leo", "Gemini"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Citrine.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Moonstone",
+      "planet": "Moon",
+      "color": "White/Rainbow",
+      "priceRange": "₹1000 - ₹15000",
+      "minPrice": 1000,
+      "maxPrice": 15000,
+      "benefits": ["Intuition", "Emotional Balance", "Fertility", "Love", "New Beginnings"],
+      "purposes": ["Relationships", "Health", "Intuition", "Love"],
+      "wearInstructions": {
+        "metal": "Silver",
+        "finger": "Little Finger",
+        "day": "Monday",
+        "time": "Evening"
+      },
+      "alternatives": ["Pearl", "Opal", "White Sapphire"],
+      "description": "Moonstone is associated with the Moon. It enhances intuition, emotional balance, and brings new beginnings. Stone of new lovers.",
+      "zodiacSigns": ["Cancer", "Libra", "Scorpio"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Moonstone.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Garnet",
+      "planet": "Mars",
+      "color": "Deep Red",
+      "priceRange": "₹1500 - ₹20000",
+      "minPrice": 1500,
+      "maxPrice": 20000,
+      "benefits": ["Passion", "Energy", "Commitment", "Health", "Regeneration"],
+      "purposes": ["Health", "Love", "Energy", "Passion"],
+      "wearInstructions": {
+        "metal": "Gold",
+        "finger": "Ring Finger",
+        "day": "Tuesday",
+        "time": "Morning"
+      },
+      "alternatives": ["Red Coral", "Ruby", "Red Spinel"],
+      "description": "Garnet is associated with Mars. It enhances passion, energy, and commitment. Good for health and regeneration.",
+      "zodiacSigns": ["Aries", "Leo", "Capricorn"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Garnet.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Turquoise",
+      "planet": "Jupiter",
+      "color": "Blue-Green",
+      "priceRange": "₹2000 - ₹30000",
+      "minPrice": 2000,
+      "maxPrice": 30000,
+      "benefits": ["Protection", "Healing", "Communication", "Friendship", "Luck"],
+      "purposes": ["Health", "Protection", "Communication", "Friendship"],
+      "wearInstructions": {
+        "metal": "Silver",
+        "finger": "Index Finger",
+        "day": "Thursday",
+        "time": "Morning"
+      },
+      "alternatives": ["Aquamarine", "Blue Topaz", "Apatite"],
+      "description": "Turquoise is associated with Jupiter. It provides protection, healing, and enhances communication. A stone of friendship.",
+      "zodiacSigns": ["Sagittarius", "Pisces", "Scorpio"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Turquoise.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Opal",
+      "planet": "Moon",
+      "color": "Multi-colored",
+      "priceRange": "₹3000 - ₹50000",
+      "minPrice": 3000,
+      "maxPrice": 50000,
+      "benefits": ["Creativity", "Inspiration", "Emotional Healing", "Love", "Spontaneity"],
+      "purposes": ["Creativity", "Love", "Emotional Healing", "Inspiration"],
+      "wearInstructions": {
+        "metal": "Silver",
+        "finger": "Ring Finger",
+        "day": "Monday",
+        "time": "Evening"
+      },
+      "alternatives": ["Moonstone", "Pearl", "Amethyst"],
+      "description": "Opal is associated with the Moon. It enhances creativity, inspiration, and emotional healing. Stone of artists and dreamers.",
+      "zodiacSigns": ["Cancer", "Libra", "Pisces"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Opal.jpg"
+    }
+  ],
+  "zodiacMapping": {
+    "Aries": "Red Coral",
+    "Taurus": "Diamond",
+    "Gemini": "Emerald",
+    "Cancer": "Pearl",
+    "Leo": "Ruby",
+    "Virgo": "Emerald",
+    "Libra": "Diamond",
+    "Scorpio": "Red Coral",
+    "Sagittarius": "Yellow Sapphire",
+    "Capricorn": "Blue Sapphire",
+    "Aquarius": "Blue Sapphire",
+    "Pisces": "Yellow Sapphire"
+  },
+  "purposeMapping": {
+    "Career": ["Ruby", "Blue Sapphire", "Red Coral", "Hessonite"],
+    "Marriage": ["Diamond", "Yellow Sapphire", "Pearl"],
+    "Education": ["Emerald", "Yellow Sapphire", "Ruby"],
+    "Health": ["Pearl", "Red Coral", "Cat's Eye"],
+    "Wealth": ["Yellow Sapphire", "Ruby", "Diamond"],
+    "Business": ["Emerald", "Ruby", "Yellow Sapphire"],
+    "Leadership": ["Ruby", "Red Coral", "Blue Sapphire"],
+    "Success": ["Ruby", "Diamond", "Yellow Sapphire"],
+    "Relationships": ["Pearl", "Diamond", "Emerald"],
+    "Spirituality": ["Yellow Sapphire", "Cat's Eye", "Pearl"]
+  }
+}

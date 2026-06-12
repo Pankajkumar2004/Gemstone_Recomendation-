@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "user_1781246708258",
+      "name": "Pankaj Kumar",
+      "dob": "2005-05-24",
+      "gender": "Male",
+      "createdAt": "2026-06-12T06:45:08.258Z",
+      "recommendationCount": 1
+    }
+  ]
+}

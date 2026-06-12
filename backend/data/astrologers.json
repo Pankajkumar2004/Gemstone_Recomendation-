@@ -1,0 +1,192 @@
+{
+  "astrologers": [
+    {
+      "id": 1,
+      "name": "Dr. Rajesh Sharma",
+      "specialization": "Vedic Astrology",
+      "experience": "15 years",
+      "rating": 4.8,
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "isAvailable": true,
+      "currentChat": null,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rajesh"
+    },
+    {
+      "id": 2,
+      "name": "Priya Gupta",
+      "specialization": "Gemstone Therapy",
+      "experience": "10 years",
+      "rating": 4.9,
+      "languages": [
+        "Hindi",
+        "English",
+        "Marathi"
+      ],
+      "isAvailable": false,
+      "currentChat": "chat_1781249429546_user_1781249417980_2",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya"
+    },
+    {
+      "id": 3,
+      "name": "Amit Verma",
+      "specialization": "Numerology & Gemstones",
+      "experience": "12 years",
+      "rating": 4.7,
+      "languages": [
+        "Hindi",
+        "English",
+        "Punjabi"
+      ],
+      "isAvailable": false,
+      "currentChat": null,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Amit"
+    },
+    {
+      "id": 4,
+      "name": "Sunita Devi",
+      "specialization": "Vastu & Gemstones",
+      "experience": "20 years",
+      "rating": 4.9,
+      "languages": [
+        "Hindi",
+        "English",
+        "Tamil"
+      ],
+      "isAvailable": false,
+      "currentChat": "chat_1781249716011_user_1781249710926_4",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sunita"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "specialization": "Western Astrology",
+      "experience": "8 years",
+      "rating": 4.6,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "isAvailable": false,
+      "currentChat": null,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat_1781249429546_user_1781249417980_2",
+      "userId": "user_1781249417980",
+      "astrologerId": 2,
+      "astrologerName": "Priya Gupta",
+      "astrologerAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "messages": [
+        {
+          "sender": "astrologer",
+          "text": "Hello! I'm Priya Gupta, your Gemstone Therapy expert. How can I help you today?",
+          "timestamp": "2026-06-12T07:30:29.574Z"
+        },
+        {
+          "sender": "user",
+          "text": "hii",
+          "timestamp": "2026-06-12T07:30:42.501Z"
+        },
+        {
+          "sender": "astrologer",
+          "text": "Based on your birth details, I recommend wearing a Ruby to enhance your leadership qualities.",
+          "timestamp": "2026-06-12T07:30:44.022Z"
+        },
+        {
+          "sender": "astrologer",
+          "text": "For your career growth, Blue Sapphire would be very beneficial according to your planetary positions.",
+          "timestamp": "2026-06-12T07:30:44.029Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-06-12T07:30:29.546Z"
+    },
+    {
+      "id": "chat_1781249675902_user_1781249672490_1",
+      "userId": "user_1781249672490",
+      "astrologerId": 1,
+      "astrologerName": "Dr. Rajesh Sharma",
+      "astrologerAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rajesh",
+      "messages": [
+        {
+          "sender": "astrologer",
+          "text": "Hello! I'm Dr. Rajesh Sharma, your Vedic Astrology expert. How can I help you today?",
+          "timestamp": "2026-06-12T07:34:35.921Z"
+        }
+      ],
+      "status": "ended",
+      "createdAt": "2026-06-12T07:34:35.902Z",
+      "endedAt": "2026-06-12T07:34:55.432Z"
+    },
+    {
+      "id": "chat_1781249703397_user_1781249699129_4",
+      "userId": "user_1781249699129",
+      "astrologerId": 4,
+      "astrologerName": "Sunita Devi",
+      "astrologerAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sunita",
+      "messages": [
+        {
+          "sender": "astrologer",
+          "text": "Hello! I'm Sunita Devi, your Vastu & Gemstones expert. How can I help you today?",
+          "timestamp": "2026-06-12T07:35:03.415Z"
+        }
+      ],
+      "status": "ended",
+      "createdAt": "2026-06-12T07:35:03.397Z",
+      "endedAt": "2026-06-12T07:35:09.347Z"
+    },
+    {
+      "id": "chat_1781249716011_user_1781249710926_4",
+      "userId": "user_1781249710926",
+      "astrologerId": 4,
+      "astrologerName": "Sunita Devi",
+      "astrologerAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sunita",
+      "messages": [
+        {
+          "sender": "astrologer",
+          "text": "Hello! I'm Sunita Devi, your Vastu & Gemstones expert. How can I help you today?",
+          "timestamp": "2026-06-12T07:35:16.030Z"
+        },
+        {
+          "sender": "user",
+          "text": "hii",
+          "timestamp": "2026-06-12T07:42:45.295Z"
+        },
+        {
+          "sender": "astrologer",
+          "text": "Emerald is excellent for improving communication and intelligence in your case.",
+          "timestamp": "2026-06-12T07:42:46.806Z"
+        },
+        {
+          "sender": "astrologer",
+          "text": "Based on your birth details, I recommend wearing a Ruby to enhance your leadership qualities.",
+          "timestamp": "2026-06-12T07:42:46.812Z"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2026-06-12T07:35:16.011Z"
+    },
+    {
+      "id": "chat_1781252301651_user_1781252297886_1",
+      "userId": "user_1781252297886",
+      "astrologerId": 1,
+      "astrologerName": "Dr. Rajesh Sharma",
+      "astrologerAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rajesh",
+      "messages": [
+        {
+          "sender": "astrologer",
+          "text": "Hello! I'm Dr. Rajesh Sharma, your Vedic Astrology expert. How can I help you today?",
+          "timestamp": "2026-06-12T08:18:21.669Z"
+        }
+      ],
+      "status": "ended",
+      "createdAt": "2026-06-12T08:18:21.651Z",
+      "endedAt": "2026-06-12T08:18:27.736Z"
+    }
+  ]
+}

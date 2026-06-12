@@ -1,0 +1,65 @@
+{
+  "recommendations": [
+    {
+      "id": 1781246708256,
+      "userId": "user_1781246708256",
+      "userName": "Pankaj Kumar",
+      "dob": "2005-05-24",
+      "gender": "Male",
+      "purpose": "Success",
+      "budget": "₹1000 - ₹5000",
+      "zodiacSign": "Gemini",
+      "primaryRecommendation": {
+        "name": "Citrine",
+        "matchScore": 90,
+        "planet": "Jupiter",
+        "color": "Yellow",
+        "priceRange": "₹2000 - ₹25000",
+        "benefits": [
+          "Prosperity",
+          "Success",
+          "Abundance",
+          "Creativity",
+          "Joy"
+        ],
+        "wearInstructions": {
+          "metal": "Gold",
+          "finger": "Index Finger",
+          "day": "Thursday",
+          "time": "Morning"
+        },
+        "alternatives": [
+          "Yellow Topaz",
+          "Golden Beryl",
+          "Amber"
+        ],
+        "description": "Citrine is associated with Jupiter. It attracts prosperity, success, and abundance. Known as the merchant's stone."
+      },
+      "alternatives": [
+        {
+          "name": "Ruby",
+          "matchScore": 70,
+          "planet": "Sun",
+          "color": "Red",
+          "priceRange": "₹5000 - ₹50000"
+        },
+        {
+          "name": "Emerald",
+          "matchScore": 70,
+          "planet": "Mercury",
+          "color": "Green",
+          "priceRange": "₹3000 - ₹40000"
+        },
+        {
+          "name": "Hessonite",
+          "matchScore": 70,
+          "planet": "Rahu",
+          "color": "Brown/Red",
+          "priceRange": "₹3000 - ₹35000"
+        }
+      ],
+      "explanation": "Your zodiac sign is Gemini, ruled by Mercury. Citrine is governed by Jupiter. This combination enhances your communication skills and brings success in success.",
+      "createdAt": "2026-06-12T06:45:08.256Z"
+    }
+  ]
+}
