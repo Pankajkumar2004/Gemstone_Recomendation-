@@ -13,7 +13,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "*",
     methods: ["GET", "POST"]
   }
 });
@@ -24,6 +24,11 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+
+// Root route
+app.get('/', (req, res) => {
+  res.send('Gemstone Recommendation API is running');
+});
 
 // Routes
 app.use('/api/recommendations', recommendationRoutes);
